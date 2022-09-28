@@ -1,0 +1,25 @@
+nav{
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    margin: 10px auto;
+    padding: 10px 10px 30px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    color: gray;
+    text-align: center;
+    width: 170px;
+    height: 15px;
+    margin-bottom: 5px;
+}
+
+.button{
+    margin-top: 10px;
+    color: white;
+    background-color: orange;
+    border: 0ch;
+    height: 35px;
+    width: 60px;
+}

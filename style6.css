@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(198, 188, 188);
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+table, th, td {
+    background-color: white;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+img{
+    width: 25px;
+    height: 25px;
+}
